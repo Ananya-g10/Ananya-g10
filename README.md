@@ -1,40 +1,39 @@
-<h1 align="center">👋 Hi, I'm Ananya</h1>
+<h1 align="center">Hi, I'm Ananya Gupta</h1>
 
-<h2 align="center">💻 BCA Student | Aspiring Full-Stack Developer</h2>
+<h3 align="center">BCA Student • Aspiring Full-Stack Developer</h3>
 
-<p align="center"> <b>Mastering C • Java • Python</b><br> 🌐 Learning Full-Stack Development </p>
+<p align="center">
+  <strong>Mastering C, Java & Python | Learning Full-Stack Development</strong>
+</p>
 
-<h1>🚀 About Me</h1>
+---
 
-🎓 BCA Student
-💻 Aspiring Full-Stack Developer
-🧠 Mastering C, Java & Python
-🌐 Focused on Full-Stack Development
-🗄️ Learning Databases & Backend Development
-🔗 Learning APIs & Frontend-Backend Integration
-🛠️ Building Real-World Projects
-📚 Learning → Practicing → Building → Improving
+## About Me
 
-<h1>💡 My Approach</h1>
+I am a BCA student passionate about software development and technology.
 
-<h2 align="center">LEARN → UNDERSTAND → PRACTICE → BUILD → IMPROVE 🚀</h2>
+I am focused on building a strong programming foundation by mastering **C, Java, and Python**, while developing my skills in **Full-Stack Development**.
 
-I don't want to simply learn technologies.
+I enjoy learning how software works, solving problems, writing code, and continuously improving my technical skills.
 
-I want to understand how they work, practice them consistently, and use them to build real-world applications.
+---
 
-<h1>🌱 Currently Learning</h1>
+## Languages & Technologies
 
-<h2 align="center">FULL-STACK DEVELOPMENT 🌐</h2>
+**Programming Languages**
 
-<p align="center"> Strengthening my programming foundation with <b>C • Java • Python</b> </p>
+`C` • `Java` • `Python`
 
-<h1>🚀 Long-Term Goal</h1>
+**Full-Stack Development**
 
-<h2 align="center"> Become a Skilled & Professional Full-Stack Developer </h2>
+`HTML` • `CSS` • `JavaScript` • `React` • `Backend` • `SQL` • `REST APIs`
 
-<p align="center"> Building • Learning • Improving • Growing </p>
+**Tools**
 
-<h2 align="center">⭐ Thanks for visiting my profile!</h2>
+`Git` • `GitHub` • `VS Code`
 
-<h3 align="center">Keep Learning • Keep Building • Keep Improving 🚀</h3>
+---
+
+<p align="center">
+  <strong>Learn • Build • Improve</strong>
+</p>
