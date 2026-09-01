@@ -1,39 +1,70 @@
-<h1 align="center">Hi, I'm Ananya Gupta</h1>
+# **Hi, I'm Ananya Gupta**
 
-<h3 align="center">BCA Student • Aspiring Full-Stack Developer</h3>
+**I’m a BCA student at Silver Oak University with a strong interest in software development and technology.**
 
-<p align="center">
-  <strong>Mastering C, Java & Python | Learning Full-Stack Development</strong>
-</p>
+**I’m currently learning C, Python, and Java while exploring Web Development, Data Structures & Algorithms, Databases, and APIs.**
 
----
+**I’m focused on developing strong programming fundamentals, improving my problem-solving skills, and understanding software development through consistent learning, practice, and projects.**
 
-## About Me
+**I enjoy exploring new technologies, solving problems, and turning what I learn into practical applications.**
 
-I am a BCA student passionate about software development and technology.
-
-I am focused on building a strong programming foundation by mastering **C, Java, and Python**, while developing my skills in **Full-Stack Development**.
-
-I enjoy learning how software works, solving problems, writing code, and continuously improving my technical skills.
+**My goal is to grow into a professional Full Stack Developer and build reliable, useful, and real-world applications.**
 
 ---
 
-## Languages & Technologies
+## **Currently Learning**
 
-**Programming Languages**
-
-`C` • `Java` • `Python`
-
-**Full-Stack Development**
-
-`HTML` • `CSS` • `JavaScript` • `React` • `Backend` • `SQL` • `REST APIs`
-
-**Tools**
-
-`Git` • `GitHub` • `VS Code`
+**C • Python • Java • Data Structures & Algorithms • Web Development • SQL • Databases • APIs • Git • GitHub**
 
 ---
 
-<p align="center">
-  <strong>Learn • Build • Improve</strong>
-</p>
+## **Technical Skills**
+
+### **Programming**
+**C | Python | Java**
+
+### **Web Development**
+**HTML | CSS**
+
+### **Computer Science**
+**Data Structures & Algorithms | Object-Oriented Programming | Problem Solving**
+
+### **Database**
+**SQL**
+
+### **Tools**
+**Git | GitHub | VS Code**
+
+---
+
+## **Currently Working On**
+
+**• Strengthening programming fundamentals**
+
+**• Practicing Data Structures & Algorithms**
+
+**• Building practical projects**
+
+**• Exploring Web Development**
+
+**• Improving problem-solving skills**
+
+---
+
+## **Career Goal**
+
+**To become a professional Full Stack Developer and build meaningful, reliable, and real-world applications.**
+
+---
+
+## **Learning Approach**
+
+**Learn → Practice → Build → Improve**
+
+---
+
+## **Connect With Me**
+
+**LinkedIn:** [Ananya Gupta](YOUR-LINKEDIN-LINK)
+
+**Email:** YOUR-PROFESSIONAL-EMAIL
