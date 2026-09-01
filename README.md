@@ -65,6 +65,6 @@
 
 ## **Connect With Me**
 
-**LinkedIn:** [Ananya Gupta](YOUR-LINKEDIN-LINK)
+**LinkedIn:** https://www.linkedin.com/in/ananya-gupta-633482384?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-**Email:** YOUR-PROFESSIONAL-EMAIL
+**Email:** ananyagupta4226@gmail.com
